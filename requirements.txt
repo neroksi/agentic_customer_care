@@ -1,0 +1,10 @@
+pandas
+openpyxl
+openai
+pydantic
+python-dotenv
+Jinja2
+## For notebook execution
+# notebook
+# ipykernel
+# ipywidgets
